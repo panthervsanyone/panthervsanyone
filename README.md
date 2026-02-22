@@ -25,5 +25,5 @@
 
 
 <p align ='center'>
-  <a href="#"><img src="https://profile-counter.glitch.me/{panthervsanyone}/count.svg" width="350" alt="counterVisitors"></a>
+  <img src="https://komarev.com/ghpvc/?username=panthervsanyone&style=for-the-badge" alt="Profile views">
 </p>
